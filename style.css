@@ -473,11 +473,11 @@ width: 25%;
     margin-top: 10px;
   }
   .article-head {
-    width: 400%;
     gap: 20px;
   }
   .article-txt {
     margin-bottom: -50px;
+    width: 90%;
   }
   .article-btn button {
     margin-top: 150px;
